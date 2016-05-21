@@ -50,6 +50,11 @@ h1 {
 	padding-left: px;
 }
 
+.btn.btn-info {
+	float: right;
+	/*transform: rotate(90deg);*/
+	transform-origin: left top 0;
+}
 
 
 
