@@ -1,0 +1,55 @@
+body { 
+	padding-bottom: 70px; 
+	background-color: #816687;
+	background: linear-gradient(to bottom right, #816687, black);
+}
+
+h1 {
+	text-align: right;
+}
+.col-md-3 img{
+	height: 85%;
+	border-radius: 10px;
+	border: solid 1px black;
+}
+
+.jumbotron {
+	margin-top: 4.5em;
+	background-color: #BDA0CB;
+}
+
+.navbar.navbar-inverse.navbar-fixed-bottom img {
+	float: right;
+}
+
+.container {
+	/*background-color: #3b444b;*/
+	/*background: linear-gradient(to bottom right, #3b444b, black);*/
+	opacity: .75;
+}
+
+.glyphicon.glyphicon-align-justify {
+	font-size: 30px;
+	padding-left: 10px;
+}
+
+#astronaut {
+	opacity: .1;
+	border-radius: 50%;
+	z-index: -1;
+	left: 0;
+	top: 0;
+	padding-bottom: 25px;
+}
+
+#linkedin, #github, #genAss{
+	height: 45px;
+	width: 45px;
+	border-radius: 50%;
+	padding-top: 4px;
+	padding-left: px;
+}
+
+
+
+
